@@ -3,7 +3,7 @@
 ## Project Overview
 A company that performs mail-order sales in Germany is interested in identifying facets of the population that are most likely to be purchasers of their products for a mailout campaign. The goal of the project is to use unsupervised learning techniques to organize the general population into clusters, then use those clusters to see which of them comprise the main user base for the company. The project is documented in [Identify_Customer_Segments.ipynb](https://github.com/iDataist/Create-Customer-Segments/blob/master/Identify_Customer_Segments.ipynb).
 
-## Key Skills Demonstrated:
+## Key Skills Demonstrated
 - Data cleaning
 - Dimensionality reduction with PCA
 - Unsupervised clustering
