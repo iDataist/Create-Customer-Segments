@@ -17,7 +17,7 @@ A company that performs mail-order sales in Germany is interested in identifying
 
 **AZDIAS_Feature_Summary.csv**: Summary of feature attributes for demographic data.
 
-## Project steps
+## Project Steps
 The project is documented in [Identify_Customer_Segments.ipynb](https://github.com/iDataist/Create-Customer-Segments/blob/master/Identify_Customer_Segments.ipynb).
 
 **Step 1: Preprocessing**
