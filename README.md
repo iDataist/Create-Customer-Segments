@@ -1,7 +1,7 @@
 # Create Customer Segments
 
 ## Project Overview
-A company that performs mail-order sales in Germany is interested in identifying facets of the population that are most likely to be purchasers of their products for a mailout campaign. The goal of the project is to use unsupervised learning techniques to organize the general population into clusters, then use those clusters to see which of them comprise the main user base for the company. The project is documented in [Identify_Customer_Segments.ipynb](https://github.com/iDataist/Create-Customer-Segments/blob/master/Identify_Customer_Segments.ipynb).
+A company that performs mail-order sales in Germany is interested in identifying facets of the population that are most likely to be purchasers of their products for a mailout campaign. The goal of the project is to use unsupervised learning techniques to organize the general population into clusters, then use those clusters to see which of them comprise the main user base for the company.
 
 ## Key Skills Demonstrated
 - Data cleaning
@@ -18,6 +18,8 @@ A company that performs mail-order sales in Germany is interested in identifying
 **AZDIAS_Feature_Summary.csv**: Summary of feature attributes for demographic data.
 
 ## Project steps
+The project is documented in [Identify_Customer_Segments.ipynb](https://github.com/iDataist/Create-Customer-Segments/blob/master/Identify_Customer_Segments.ipynb).
+
 **Step 1: Preprocessing**
 
 In this step, I assessed and cleaned the data in order to convert it into a usable form. Below are the key considerations in this step:
