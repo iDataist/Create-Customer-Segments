@@ -1,7 +1,7 @@
 # Create Customer Segments
 
 ## Project Overview
-A company that performs mail-order sales in Germany is interested in identifying facets of the population that are most likely to be purchasers of their products for a mailout campaign. The goal of the project is to use unsupervised learning techniques to organize the general population into clusters, then use those clusters to see which of them comprise the main user base for the company.
+A company that performs mail-order sales in Germany was interested in identifying facets of the population that were most likely to be purchasers of their products for a mailout campaign. I applied unsupervised learning techniques to organize the general population into clusters, then used those clusters to see which of them comprised the main user base for the company.
 
 ## Key Skills Demonstrated
 - Data cleaning
