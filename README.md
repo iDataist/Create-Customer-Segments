@@ -9,9 +9,9 @@ A company that performs mail-order sales in Germany was interested in identifyin
 - Unsupervised clustering
 
 ## Data
-**Udacity_AZDIAS_Subset.csv**: Demographic data for the general population of Germany; 891211 persons (rows) x 85 features (columns).
+**AZDIAS_Subset.csv**: Demographic data for the general population of Germany; 891211 persons (rows) x 85 features (columns).
 
-**Udacity_CUSTOMERS_Subset.csv**: Demographic data for customers of a mail-order company; 191652 persons (rows) x 85 features (columns).
+**CUSTOMERS_Subset.csv**: Demographic data for customers of a mail-order company; 191652 persons (rows) x 85 features (columns).
 
 **Data_Dictionary.md**: Information file about the features in the provided datasets.
 
